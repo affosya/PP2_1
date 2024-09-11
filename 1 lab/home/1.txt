@@ -1,0 +1,13 @@
+What is a correct way to declare a Python variable?
+answer: x = 5
+
+True or False:
+You can declare string variables with single or double quotes.
+answer: True
+
+True or false :
+Variable names are not case-sensitive.
+a = 5
+# is the same as
+A = 5
+answer : false

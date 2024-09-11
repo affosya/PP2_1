@@ -1,0 +1,8 @@
+1) True or False: Indentation in Python is for readability only.
+Answer: False
+2) Insert the missing part of the code below to output "Hello World".
+Answer: print
+3) Complete the code block, print "YES" if 5 is larger than 2.
+Hint: remember the indentation.
+if 5 > 2:
+  ANswer:  print("YES")  
